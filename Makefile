@@ -10,7 +10,6 @@ gen:
 
 .PHONY: build
 build:
-	swag init -g ./main.go
 	go build
 
 .PHONY: test

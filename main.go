@@ -3,7 +3,7 @@ package main
 import (
 	//"github.com/liuhongdi/digv16/global"
 	"github.com/gin-gonic/gin"
-	"github.com/liuhongdi/gintest01/router"
+	"github.com/lianyz/gintest01/router"
 	//"log"
 )
 
